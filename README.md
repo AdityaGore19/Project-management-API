@@ -8,6 +8,7 @@ Table of Contents
     Getting Started
         Prerequisites
         Installation
+        H2 database
     Usage
     API Documentation
     Contributing
@@ -45,7 +46,9 @@ Installation
 
    4. If you're using Gradle: gradle build
 
-
+H2 database
+    once you have installed the project on yor machine, to check your local machine database H2, you can go to [this](http://localhost:9090/h2/) and then click         connect to see the database you are going to be using
+    
 Usage
 
     Run the application:
